@@ -34,8 +34,15 @@ h1 h2{
 
 /* Navigation Styles */
 
-
-
+nav > ol> li> a:link {
+   text-decoration:none;
+}
+nav>ul>li > a:link{
+   text-decoration:none;
+}
+nav> ol> li> ol> li> a:link{
+   text-decoration: none;
+}
 
 /* Outline Styles */
 
