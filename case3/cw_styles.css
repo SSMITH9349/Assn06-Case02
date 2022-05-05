@@ -23,7 +23,9 @@ body{
    background-color: rgb(180,180,223);
    font-family: Verdana, Geneva, sans-serif;
 }
-
+body>header{
+   background-color: rgb(97,97,211);
+}
 footer{
    color:white;
    background-color: rgb(101,101,101);
