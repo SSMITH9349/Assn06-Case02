@@ -24,7 +24,14 @@ body{
    font-family: Verdana, Geneva, sans-serif;
 }
 
+footer{
+   color:white;
+   background-color: rgb(101,101,101);
+   font-size: 0.8em;
+   text-align:center;
+   padding: 1px,1px;
 
+}
 /* Body Header Styles */
 
 h1 h2{
