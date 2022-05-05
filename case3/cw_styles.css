@@ -19,7 +19,10 @@
 html{
    background-color: rgb(151,151,151);
 }
-
+body{
+   background-color: rgb(180,180,223);
+   font-family: Verdana, Geneva, sans-serif;
+}
 
 
 /* Body Header Styles */
