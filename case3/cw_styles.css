@@ -39,6 +39,12 @@ footer{
 h1 h2{
    font-weight:normal;
 }
+body> h1{
+   color: rgba(255,255,255,0.8);
+   font-size: 4vw;
+   font-family: Limelight, cursive;
+   margin: 0px;
+}
 
 
 /* Navigation Styles */
