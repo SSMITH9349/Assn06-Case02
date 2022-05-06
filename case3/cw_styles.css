@@ -131,7 +131,9 @@ nav> ol> li> ol> li> a:link{
 }
 
 /* Section Styles */
-
+section{
+   background-color: rgb(220,220,220);
+}
 
 
 
