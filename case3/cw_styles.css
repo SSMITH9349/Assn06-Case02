@@ -143,10 +143,13 @@ section header h1{
 
 /* Article Styles */
 article h2{
-   font-size:104em;
+   font-size:1.4em;
 }
 
 
-
+article p::first-letter{
+   font-size:2em;
+   vertical-align: baseline;
+}
 /* Aside Styles */
 
