@@ -142,7 +142,9 @@ section header h1{
 
 
 /* Article Styles */
-
+article h2{
+   font-size:104em;
+}
 
 
 
