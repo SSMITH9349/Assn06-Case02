@@ -87,22 +87,38 @@ nav> ol> li> ol> li> a:link{
 
 
 
-#outline>ol>li> a:link{
+#outline>ol> li> a:link{
    color: rgb(101,101,101);
    font-style: 2em;
    margin: 0px, 0px;
 
 }
-#outline>ol>li> a:visited{
+#outline>ol>li> a:active{
+   color: rgb(97,97,211);
+   text-decoration: underline;
+}
+#outline>ol>li> a:hover{
+   color: rgb(97,97,211);
+   text-decoration: underline;
+}
+ #outline>ol>li> a:visited{
  color:  rgb(101,101,101);
 }
 #outline> ol> li> ol> li> a:link{
    color: rgb(101,101,101);
    font-size: 0.8em
 }
-#outline>ol>li>ol>li a:visited{
+#outline>ol>li>ol>li>a:visited{
    color:  rgb(101,101,101);
-  }
+}
+#outline> ol>li>ol>li>a:hover{
+   color:rgb(97,97,211);
+   text-decoration: underline;
+}
+#outline>ol>li>ol>li>a:active{
+   text-decoration: underline;
+   color:rgb(180,180,223);
+}
 #outline h1{
    text-align: center;
 }
