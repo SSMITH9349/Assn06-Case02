@@ -152,4 +152,7 @@ article p::first-letter{
    vertical-align: baseline;
 }
 /* Aside Styles */
+aside{
+   font-size:0.9em;
+}
 
