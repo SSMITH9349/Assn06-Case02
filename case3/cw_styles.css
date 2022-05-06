@@ -76,8 +76,10 @@ nav> ol> li> ol> li> a:link{
 }
 #mainLinks> ul> li> a:link{
    color: white;
-
-
+}
+#mainLinks > ul>li > a:hover{
+   color: rgba(255, 255 , 255, 0.5);
+   background-color: rgba( 51,51,51, 0.5);
 }
 
 
