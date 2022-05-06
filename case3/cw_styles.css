@@ -65,8 +65,16 @@ nav> ol> li> ol> li> a:link{
    text-decoration: none;
 }
 
-#mainLinks::li{
-   padding: 5px,5px;
+#mainLinks{
+   padding-top:5px;
+   padding-bottom:5px;
+}
+
+#mainLinks > ul> li> a:visited{
+   color: white;
+}
+#mainLinks> ul> li> a:link{
+   color: white;
 }
 
 
