@@ -86,7 +86,13 @@ nav> ol> li> ol> li> a:link{
 /* Outline Styles */
 
 
-
+#outline>ol>li {
+   list-style-type: upper-roman;
+   list-style-type: rgb(101,101,101);
+}
+#outline>ol>li>ol>li{
+   list-style-type:upper-alpha;
+}
 #outline>ol> li> a:link{
    color: rgb(101,101,101);
    font-style: 2em;
@@ -122,13 +128,10 @@ nav> ol> li> ol> li> a:link{
 #outline h1{
    text-align: center;
 }
+#outline li::marker{
+  color: rgb(101,101,101);
+}
 
-#outline>ol>li {
-   list-style-type: upper-roman;
-}
-#outline>ol>li>ol>li{
-   list-style-type:upper-alpha;
-}
 
 /* Section Styles */
 section{
