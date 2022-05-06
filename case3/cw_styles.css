@@ -85,16 +85,24 @@ nav> ol> li> ol> li> a:link{
 
 /* Outline Styles */
 
+
+
 #outline>ol>li> a:link{
-   color: rgb(51,51,51);
+   color: rgb(101,101,101);
    font-style: 2em;
    margin: 0px, 0px;
 
 }
+#outline>ol>li> a:visited{
+ color:  rgb(101,101,101);
+}
 #outline> ol> li> ol> li> a:link{
-   color: rgb(51,51,51);
+   color: rgb(101,101,101);
    font-size: 0.8em
 }
+#outline>ol>li>ol>li a:visited{
+   color:  rgb(101,101,101);
+  }
 #outline h1{
    text-align: center;
 }
