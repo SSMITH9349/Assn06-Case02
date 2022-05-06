@@ -65,6 +65,7 @@ nav> ol> li> ol> li> a:link{
    text-decoration: none;
 }
 
+
 #mainLinks{
    padding-top:5px;
    padding-bottom:5px;
@@ -75,6 +76,8 @@ nav> ol> li> ol> li> a:link{
 }
 #mainLinks> ul> li> a:link{
    color: white;
+
+
 }
 
 
