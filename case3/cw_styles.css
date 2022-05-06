@@ -65,7 +65,10 @@ nav> ol> li> ol> li> a:link{
    text-decoration: none;
 }
 
-nav
+#mainLinks::li{
+   padding: 5px,5px;
+}
+
 
 /* Outline Styles */
 
